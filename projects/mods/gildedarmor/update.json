@@ -1,6 +1,14 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/gildedarmor",
+  "1.20.1": {
+    "1.7.0-beta.1": "Added\n- Gilding upgrade smithing template (not in the experimental pack).\n- Gilded armor can be trimmed (not in the experimental pack).\n\nChanged\n- Updated to 1.20."
+  },
+  "1.19.4": {
+    "1.6.0-beta.1": "Changed\n- Gilding upgrade smithing template has a new texture and recipe.",
+    "1.6.0-alpha.1": "Added\n- Gilding upgrade smithing template (1.20 experimental feature).\n- Gilded armor can be trimmed (1.20 experimental feature).\n\nChanged\n- Updated to 1.19.4"
+  },
   "1.19.3": {
+    "1.5.1": "Added\n- Russian translation for the gilded enderite armor.\n\nChanged\n- Shortened credits.\n- Updated pack_formats.\n\nFixed\n- pt_br and es_ve translation files.",
     "1.5.0": "Changed\n- Updated to 1.19.3.\n- Grouped gilded armor with the other armor sets in the creative tab.\n- Gilded enderite armor can only be repaired with the ingot from its own mod.\n- Recipes and recipe advancements relating to enderite now use conditionals instead of single-item tags.\n- Recipe advancements for gilded netherite are now located in a subfolder called \"combat\".\n\nFixed\n- Combining enderite leggings and an iron ingot on a smithing table would produce gilded enderite boots.\n- Recipe advancements for gilded netherite armor would be granted whenever the inventory changed."
   },
   "1.19.2": {
@@ -34,8 +42,12 @@
     "1.0.0": "Added\n- Gilded armor"
   },
   "promos": {
-    "1.19.3-latest": "1.5.0",
-    "1.19.3-recommended": "1.5.0",
+    "1.20.1-latest": "1.7.0-beta.1",
+    "1.20.1-recommended": "1.7.0-beta.1",
+    "1.19.4-latest": "1.6.0-beta.1",
+    "1.19.4-recommended": "1.6.0-beta.1",
+    "1.19.3-latest": "1.5.1",
+    "1.19.3-recommended": "1.5.1",
     "1.19.2-latest": "1.4.1",
     "1.19.2-recommended": "1.4.1",
     "1.18.2-latest": "1.3.1",
